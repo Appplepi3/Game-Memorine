@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryCanvas</string>
+    <string name="new_game">Начать игру</string>
+    <string name="exit">Выйти</string>
+</resources>
